@@ -1,0 +1,1 @@
+4 digit stopwatch coded in Verilog in Quartus Prime at the gate level, deployed onto an FPGA. Used a series of half-adders to increment a value stored in a register every second, then pushed said value to a seven-segment-display. The clock could be paused, reset, or restarted with buttons on the FPGA.
